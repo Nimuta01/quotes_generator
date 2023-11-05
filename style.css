@@ -51,7 +51,7 @@ body{
 	opacity: 0.6; 
 } 
 
-.author{ 
+.auth or{ 
 	margin:10px; 
 	font-size:20px; 
 	transition: 0.5s; 
@@ -59,7 +59,6 @@ body{
 	font-family: 'Open Sans Condensed', sans-serif; 
 	background-image: linear-gradient(to right bottom, #28313B,#485461); 
 	color: transparent; 
-	-webkit-background-clip: text; 
 }
 	
 	
@@ -79,7 +78,7 @@ left: 27%;
 } 
 
 .block__main { 
-	min-width: 45vw; 
+	min-width: 60vw; 
 	position: absolute; 
 	transition: all .8s ease; 
 	backface-visibility: hidden; 
